@@ -5,5 +5,5 @@
 Para rodar esse projeto, por gentileza digite:
 
 ```
-npm install react.js
+npm install vs cs extensão
 ```
